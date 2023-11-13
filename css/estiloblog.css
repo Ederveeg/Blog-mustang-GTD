@@ -45,8 +45,18 @@ body
 {
     font-size: 20px;
 }
+<<<<<<< HEAD
 #post
 {
     background: white;
     padding: 1em;
+=======
+
+#footer
+{
+    background: rgb(45, 48, 44);
+    color: aliceblue;
+    text-align: center;
+    padding: 0.5em;
+>>>>>>> eab2a7d46d8389d0738623873dad9472607f89f1
 }
