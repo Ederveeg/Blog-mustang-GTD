@@ -1,4 +1,4 @@
-# Mi primer blog :fa-book:
+# Mi primer blog 
 Este es mi primer blog hecho con html y css.
 
 > Cada que vea una puerta que dice "push" siempre haga primero un "pull" para evitar conflictos.
